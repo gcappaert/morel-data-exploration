@@ -1,5 +1,6 @@
 # Morel Data Exploration
 
+![Morel Sightings By Month](https://github.com/gcappaert/morel-data-exploration/blob/main/morel_sightings_by_month.png "Morel Sightings by Month")
 
 I pulled data from two APIs: iNaturalist, which stores and categorizes user observations of living things, and OpenMeteo, which offers free historical weather data. 
 
